@@ -1,6 +1,6 @@
 ---
 layout: index	
-tittle: Juan Manuel Díaz
+title: Juan Manuel Díaz
 tagline: Curriculum Vitae
 ---
 
