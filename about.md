@@ -5,31 +5,23 @@ tagline: Curriculum Vitae
 ---
 
 # Juan Manuel Díaz Galán
-Técnico Superior Administración de Sistemas Informáticos en Red (Fecha fin: curso 2018)
+Técnico Superior Administración de Sistemas Informáticos en Red 
 
 # Formación Técnica
- Administrar/Gestionar/Programación..... – Nivel Experto,Avanzado, Medio, Bajo 
- Administrar/Gestionar/Programación..... – Nivel Experto,Avanzado, Medio, Bajo 
+ Programación Java,XML,HTML5,JSON,PYTHON – Nivel Avanzado 
+ Gestionar Base de Datos – Nivel Experto 
+ Administrar Sistemas Operativos 
 
 # Experiencia Laboral
 
-
+-Técnico en Goldenmac Servicio Técnico Apple y Formación Años 2004-2010
+-Responsable y administrador de seguridad en sistemas en Apple Inc. 2010-2016
 
 # Idiomas
 
-Idioma 1 - Inglés - Nivel A2
+Idioma 1 - Inglés - Nivel B1
 Idioma 2 - Francés - Nivel A2
 
-
 # Cursos
-
-Educación Secundaria Obligatoria (E.S.O) 
-
-Bachillerato Sociales
-
-
-# Información adicional
-	- Interes personales
-	- Interes laborales
-	- Valores personales
-	- Carné de conducir y disponibilidad para trabajar fuera de tu provincia.
+	- Educación Secundaria Obligatoria 
+	- Bachillerato Sociales
