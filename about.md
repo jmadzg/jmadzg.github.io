@@ -1,5 +1,5 @@
 ---
-layout: presentacion	
+layout: index	
 ---
 
 # Juan Manuel Díaz Galán
