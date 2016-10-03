@@ -1,5 +1,7 @@
 ---
 layout: index	
+tittle: Juan Manuel Díaz
+tagline: Curriculum Vitae
 ---
 
 # Juan Manuel Díaz Galán
