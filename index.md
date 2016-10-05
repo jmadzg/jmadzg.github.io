@@ -5,9 +5,9 @@ title: Implantacion de Aplicaciones Web
 tagline: jmadzg.github.io
 ---
 
-###[Curriculum](/about)
+### [Curriculum](/about)
 <hr/>
-###[Horario](/horario)
+### [Horario](/horario)
 <hr/>
 
 ![Imagen](logo.jpg)
